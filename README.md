@@ -1,14 +1,17 @@
 # David González León
 
-An embedded systems student at HEIG-VD. Currently in my last year of bachelor.
+An embedded systems student at HEIG-VD. Currently in my first year of master
 
-I specialise in embedded development, with mainly C and VHDL, and in multiple platforms ranging from a raspberry pi or a jetson nano to a SoC from Altera or Xilinx.
+During my bachelor I specialized in embedded development, with mainly C and VHDL, and in multiple platforms ranging from a raspberry pi or a jetson nano to a SoC from Altera or Xilinx.
+
+During my master I am currently specializing in Software Engineering, with an accent on Machine Learning, Deep Learning, IoT and Mobile Development.
 
 I am also proeficient in Python, java, C++, Kotlin and bash, and many more.
 
 In my free time I'm really interested about the folowing topics :
 
 - Homelabs and automation
+- Kunernetes
 - Ansible and automatic/strong deployment
 - Domotic and embedded appliances
 - Machine learning
