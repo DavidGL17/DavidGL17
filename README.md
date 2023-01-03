@@ -6,7 +6,7 @@ During my bachelor I specialized in embedded development, with mainly C and VHDL
 
 During my master I am currently specializing in Software Engineering, with an accent on Machine Learning, Deep Learning, IoT and Mobile Development.
 
-I am also proeficient in Python, java, C++, Kotlin and bash, and many more.
+I am also proeficient in Python, Ansible, java, C++, Kotlin and bash, and many more.
 
 In my free time I'm really interested about the folowing topics :
 
