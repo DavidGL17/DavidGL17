@@ -11,7 +11,7 @@ I am also proeficient in Python, Ansible, java, C++, Kotlin and bash, and many m
 In my free time I'm really interested about the folowing topics :
 
 - Homelabs and automation
-- Kunernetes
+- Kubernetes
 - Ansible and automatic/strong deployment
 - Domotic and embedded appliances
 - Machine learning
