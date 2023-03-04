@@ -4,7 +4,7 @@ An embedded systems student at HEIG-VD. Currently in my first year of master
 
 During my bachelor I specialized in embedded development, with mainly C and VHDL, and in multiple platforms ranging from a raspberry pi or a jetson nano to a SoC from Altera or Xilinx.
 
-During my master I am currently specializing in Software Engineering, with an accent on Machine Learning, Deep Learning, IoT and Mobile Development.
+During my master I am currently specializing in Software Engineering, with an accent on Machine Learning, Deep Learning, IoT and Mobile Development with flutter.
 
 I am also proeficient in Python, Ansible, java, C++, Kotlin and bash, and many more.
 
