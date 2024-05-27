@@ -1,12 +1,12 @@
 # David González León
 
-Currently in my first year of master at HES-SO in Computer Science, specializing in Software Engineering.
+I am a Software Engineer graduated from HES-SO, with a master in Software Engineering, and a bachelor in Computer Science with a specialisation in embeddedd engineering from HEIG-VD.
 
 During my bachelor I specialized in embedded development, with mainly C and VHDL, and in multiple platforms ranging from a raspberry pi or a jetson nano to a SoC from Altera or Xilinx.
 
-During my master I am currently specializing in Software Engineering, with an accent on Machine Learning, Deep Learning, IoT and Mobile Development with flutter.
+During my master I specialised in Software Engineering, with an accent on Machine Learning, Deep Learning, DevOps, Cloud, IoT and Mobile Development with flutter.
 
-I am also proficient in Python, Ansible, java, C++, Kotlin and bash, and many more.
+I am also proficient in Python, Javascript/Typescript, java, C++ and bash, and many more.
 
 In my free time I'm really interested about the following topics :
 
